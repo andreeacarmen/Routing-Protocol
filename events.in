@@ -1,0 +1,9 @@
+200
+6
+7 6 0 3 20
+7 3 0 1 28
+3 6 1 1 35
+0 3 1 1 70
+7 2 1 1 77
+3 4 1 1 85
+# r1 r2 type cost(dummy cost for remove) time_stamp

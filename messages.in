@@ -1,0 +1,12 @@
+10
+0 4 10 10 First do it, then do it right, then do it better.
+7 6 10 20 You won't get anything done by planning.
+4 3 10 30 Sure I could program in PHP, but I could also use a sundial to tell time.
+3 7 10 40 Talk is cheap. Show me the code.
+0 7 50 50 Nine people can’t make a baby in a month.
+3 7 50 60 Perl: The only language that looks the same before and after RSA encryption.
+2 7 100 70 Object-oriented design is the roman numerals of computing.
+2 5 100 80 One of my most productive days was throwing away 1000 lines of code.
+7 6 100 90 One of the best programming skills you can have is knowing when to walk away for awhile.
+3 7 120 100 Optimism is an occupational hazard of programming; feedback is the treatment.
+# src_id dst_id time_stamp msg_tag message_content
